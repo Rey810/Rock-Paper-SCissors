@@ -1,4 +1,4 @@
-# Rock-Paper-SCissors
+# Rock-Paper-Scissors
 Using Javascript to creat a rock paper scissors game
 
 
